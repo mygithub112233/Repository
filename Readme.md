@@ -49,7 +49,7 @@
 >> 第二层引用
 >>> 的三层引用
 
-'''c
+```c
 	#include<stdio.h>
 
 	int main(void)
@@ -57,4 +57,4 @@
 		printf("C output..\n");
 		return 0;
 	}
-'''
+```
