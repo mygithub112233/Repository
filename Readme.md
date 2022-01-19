@@ -52,7 +52,7 @@
 ...c
 	#include<stdio.h>
 
-	int main()
+	int main(void)
 	{
 		printf("C output..\n");
 		return 0;
