@@ -48,3 +48,13 @@
 > 第一层引用
 >> 第二层引用
 >>> 的三层引用
+
+...c
+	#include<stdio.h>
+
+	int main()
+	{
+		printf("C output..\n");
+		return 0;
+	}
+...
